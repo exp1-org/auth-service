@@ -1,0 +1,14 @@
+#server:
+#  port: 8081
+
+#spring:
+#  data:
+#    mongodb:
+#      uri: "mongodb+srv://admin:admin@blogcluster.tulqfsm.mongodb.net/?retryWrites=true&w=majority"
+#      database: "UserTable"
+#      timeout:
+#        milliseconds: 100000
+#  application:
+#    name: auth-service
+#  kafka:
+#    bootstrap-servers: http://localhost:9092
